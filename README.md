@@ -4,7 +4,7 @@
 ## 인공지능의 ㅇ도 모르지만 해보자
 
 [골빈해커의 깃헙 좌표](https://github.com/golbin/TensorFlow-Tutorials) - 정리가 잘 된 깃헙 레포이므로 이해 안될땐 저기 가서 찾아봅시다   
-저보다 설명 잘함 ㅇㅇ
+저보다 설명 잘함 ㅇㅇ  
 [책 사고 싶으면 여기로](http://www.hanbit.co.kr/store/books/look.php?p_code=B7257101308)
 
 ## 인공지능, 머신러닝, 딥러닝을 구별하자
